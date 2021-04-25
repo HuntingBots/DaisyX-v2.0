@@ -1,16 +1,16 @@
 {
-  "name": "DaisyX",
-  "description": "?",
+  "name": "Liza Robot",
+  "description": "I'm Liza A Powerful Telegram Group Manager Bot With Special features",
   "keywords": [
     "telegram",
-    "Daisy",
+    "LizaRobot",
     "plugin",
-    "telegram-DaisyX",
-    "fuck-TG"
+    "menager",
+    "Liza"
   ],
-  "repository": "https://github.com/TeamDaisyX/Daisy-x",
+  "repository": "https://github.com/HuntingBots/LizaRobot",
   "website": "daisyproject.studio",
-  "success_url": "t.me/DaisyXUpdates",
+  "success_url": "t.me/helpcenterbotloges",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
@@ -43,7 +43,7 @@
     },
     "MONGO_DB": {
       "description": "Don't change.",
-      "value": "DaisyX",
+      "value": "LizaRobot",
       "required": false
     },
     "HEROKU_APP_NAME": {
